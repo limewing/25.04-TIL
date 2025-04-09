@@ -8,3 +8,6 @@ ERD 작성 결과를 토대로 DB작업
   
 ## 04.08
 DB 작업 마무리
+  
+## 04.09  
+에셋 탐색 및 피드백에 따라 recipe_DB와 Recipe_ingredient_DB를 통합

@@ -38,3 +38,6 @@ DB 작업 마무리
     - trigger_type : enum으로 변경  
     - trigger_value 필드 추가됨 : trigger_type가 특정 수치를 필요로 할 경우 그 값  
 - Equip_DB : 추가됨  
+
+## 04.11
+- 퀘스트를 추가
